@@ -29,7 +29,7 @@ local Table = {
       ["Windfury Totem"] = false,
       ["Wrath of Air Totem"] = false,
       ["Fire Elemental Totem"] = true,
-      ["Mana Tide Totem"] = true
+      ["Mana Tide Totem"] = true,
 		-- autres spells	  
       ["Spirit Wolf"] = true,
       ["Treant"] = true,
